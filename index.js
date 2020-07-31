@@ -1,4 +1,4 @@
-import App from './components/App.html';
+import App from './components/App.svelte';
 
 const AppComponent = new App({
   target: document.querySelector('#root'),
